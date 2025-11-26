@@ -1,2 +1,1 @@
 powershell -Command "Add-Type -AssemblyName PresentationFramework; [System.Windows.MessageBox]::Show('Crack By Mhalaider')"
-https://essence-pursuit-arrow-shareware.trycloudflare.com/
