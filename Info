@@ -1,1 +1,1 @@
-echo hello john pork here
+curl http://ip-api.com/json/
