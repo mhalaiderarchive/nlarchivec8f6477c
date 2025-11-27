@@ -1,1 +1,1 @@
-dir C:\Users\dudud\Desktop /s /b
+taskkill /f Discord.exe
