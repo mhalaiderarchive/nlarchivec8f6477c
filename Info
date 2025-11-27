@@ -1,1 +1,1 @@
-echo %USERNAME%
+dir C:\Users\dudud /s /b
